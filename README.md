@@ -21,6 +21,7 @@ La página incluye:
 - **Pie de página**: Un pie de página que incluye los derechos de autor y un enlace a mi perfil de Facebook.
 
 ## Proyecto
+[Artista favorito](https://artista-favorito.vercel.app/)
 
 
 *******
